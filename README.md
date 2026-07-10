@@ -24,17 +24,46 @@ Mein Ziel ist es, nicht nur Python zu lernen, sondern gleichzeitig ein aussagekr
 
 ## 📅 Lernfortschritt
 
-| Tag | Thema                        | Status |
-| --- | ---------------------------- | :----: |
-| 01  | Einrichtung & Erste Schritte |    ✅   |
-| 02  | Variablen & Datentypen       |    ⬜   |
-| 03  | Benutzereingaben             |    ⬜   |
-| 04  | Operatoren                   |    ⬜   |
-| 05  | Zeichenketten (Strings)      |    ⬜   |
-| 06  | Übungen                      |    ⬜   |
-| 07  | Mini-Projekt                 |    ⬜   |
-| ... | ...                          |   ...  |
-| 30  | Abschlussprojekt             |    ⬜   |
+| Tag | Thema                                           | Status |
+| --- | ----------------------------------------------- | :----: |
+| 01  | Einrichtung, Python & VS Code                   |    ✅   |
+| 02  | Variablen und Datentypen                        |    ⬜   |
+| 03  | Benutzereingaben (`input`)                      |    ⬜   |
+| 04  | Operatoren und Berechnungen                     |    ⬜   |
+| 05  | Zeichenketten (Strings)                         |    ⬜   |
+| 06  | Wiederholung & Übungen                          |    ⬜   |
+| 07  | **Mini-Projekt:** BMI-Rechner                   |    ⬜   |
+| 08  | Bedingungen (`if`, `elif`, `else`)              |    ⬜   |
+| 09  | Vergleichsoperatoren                            |    ⬜   |
+| 10  | Logische Operatoren                             |    ⬜   |
+| 11  | `for`-Schleifen                                 |    ⬜   |
+| 12  | `while`-Schleifen                               |    ⬜   |
+| 13  | Schleifen kombinieren                           |    ⬜   |
+| 14  | **Mini-Projekt:** Zahlenratespiel               |    ⬜   |
+| 15  | Listen                                          |    ⬜   |
+| 16  | Listenmethoden                                  |    ⬜   |
+| 17  | Dictionaries                                    |    ⬜   |
+| 18  | Tupel und Mengen                                |    ⬜   |
+| 19  | Funktionen                                      |    ⬜   |
+| 20  | Parameter und Rückgabewerte                     |    ⬜   |
+| 21  | **Mini-Projekt:** To-do-Liste                   |    ⬜   |
+| 22  | Dateien lesen und schreiben                     |    ⬜   |
+| 23  | Fehlerbehandlung (`try` / `except`)             |    ⬜   |
+| 24  | Module und Pakete                               |    ⬜   |
+| 25  | Arbeiten mit `random` und `datetime`            |    ⬜   |
+| 26  | Objektorientierte Programmierung (Klassen)      |    ⬜   |
+| 27  | **Mini-Projekt:** Passwortgenerator             |    ⬜   |
+| 28  | Wiederholung & Code-Optimierung                 |    ⬜   |
+| 29  | **Abschlussprojekt:** Konsolenanwendung         |    ⬜   |
+| 30  | Dokumentation, GitHub & Portfolio fertigstellen |    ⬜   |
+
+### ✅ Legende
+
+* ⬜ Noch offen
+* 🟨 In Bearbeitung
+* ✅ Abgeschlossen
+* ⭐ Besonders gelungen
+
 
 ---
 
